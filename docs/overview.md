@@ -2,11 +2,11 @@
 title: Overview
 ---
 
-TanStack Table's core is **framework agnostic**, which means its API is the same regardless of the framework you're using. Adapters are provided to make working with the table core easier depending on your framework. See the Adapters menu for available adapters.
+TanStack Table's core is **framework agnostic**, which means its API is the same regardless of the framework you're using. Adapters are provided to make working with the table core easier depending on your framework. See the Frameworks dropdown menu at the top-left of the page for available adapters.
 
-## Typescript
+## TypeScript
 
-While TanStack Table is written in [TypeScript](https://www.typescriptlang.org/), using TypeScript in your application is optional (but recommended as it comes with outstanding benefits to both you and your codebase)
+While TanStack Table is written in [TypeScript](https://www.typescriptlang.org/), using TypeScript in your application is optional, but recommended as TypeScript itself brings outstanding benefits to both you and your codebase, and it enables type-driven features in TanStack Table you wouldn't get in plain JavaScript.
 
 ## Headless
 
